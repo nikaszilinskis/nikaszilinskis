@@ -5,7 +5,3 @@
 - 👯 Seeking collaboration opportunities! I'm eager to contribute to a significant Machine Learning project in the finance sector, particularly one that navigates the complexities of time series data.
 - 📫 Reach out to me at nikas.zilin9@gmail.com for any inquiries.
 - ⚡ Fun fact I am obessed with volleyball. 
-
-**H1dden1/H1dden1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
